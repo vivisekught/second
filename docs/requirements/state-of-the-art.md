@@ -4,12 +4,10 @@
 
 *[Вступ повинен містити короткий огляд всього документу.]*
  
- ***vhgdvdc dhcbjhbcds cdsbcdshgc b cbhd cgds cg d***
+ 
+Hello form bold
 
- gdgdgf:
- - jdsjsd
- - ncjdsnc
- - mncjdcnsdknc
+
 
 <span style="color:red"> sbhcjhsdcdshc </span>
 
